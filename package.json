@@ -1,0 +1,14 @@
+{
+  "name": "rainbow-rain",
+  "version": "1.0.0",
+  "description": "Rain falls. Rainbow rainbowing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jarvis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
