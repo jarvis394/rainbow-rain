@@ -26,10 +26,7 @@ class Block {
 
   createLine(i) {
     this.lines.push(new Line(
-      random(BLOCK_WIDTH * this.i, BLOCK_WIDTH * (this.i + 1)),
-      0,
       this.hue,
-      random(1, 3),
       this.i,
       i
     ));
